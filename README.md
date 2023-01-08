@@ -4,7 +4,6 @@
 - 🌱  Familiar with Web Dev(HTML,CSS,JS) & I’m currently learning Nodejs.
 - 💞️ I’m looking to collaborate 
 - 📫 How to reach me my email id niteshyadav38868@gmail.com
--
 
 <!---
 Nitesh984/Nitesh984 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
